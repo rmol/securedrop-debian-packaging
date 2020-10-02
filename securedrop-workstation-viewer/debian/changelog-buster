@@ -1,0 +1,5 @@
+securedrop-workstation-viewer (0.1.0+buster) unstable; urgency=medium
+
+  * Creates package, replacing 'securedrop-workstation-sd-svs-disp' package
+
+ -- SecureDrop Team <securedrop@freedom.press>  Thu, 01 Oct 2020 17:36:58 -0700
